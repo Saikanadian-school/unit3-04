@@ -1,0 +1,88 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{0, 126}, {124, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "enter_button",
+          "frame" : "{{80, 104}, {80, 32}}",
+          "title" : "check",
+          "uuid" : "5312D893-356A-42E7-94D7-2719AD489B1E",
+          "class" : "Button",
+          "name" : "check",
+          "font_size" : 15
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{25, 0}, {150, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_size" : 18,
+          "frame" : "{{437, 368}, {150, 32}}",
+          "uuid" : "8E1643A1-9BB0-48C0-95A1-7A44E81CDC9F",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "enter a year",
+          "name" : "label1",
+          "font_name" : "<System>"
+        },
+        "selected" : true
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{0, 40}, {200, 78}}",
+        "class" : "TextField",
+        "attributes" : {
+          "font_size" : 17,
+          "frame" : "{{412, 368}, {200, 32}}",
+          "spellchecking_type" : "default",
+          "class" : "TextField",
+          "uuid" : "33F13649-0B52-414B-83C8-AFFF6B81FAF4",
+          "alignment" : "left",
+          "autocorrection_type" : "default",
+          "name" : "year_textfield",
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{0, 166}, {150, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_size" : 18,
+          "frame" : "{{437, 368}, {150, 32}}",
+          "uuid" : "BE872D3A-D34B-49E2-AFCC-719BFCC09F70",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "name" : "year_label",
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      }
+    ],
+    "frame" : "{{0, 0}, {1024, 768}}",
+    "class" : "View",
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]
